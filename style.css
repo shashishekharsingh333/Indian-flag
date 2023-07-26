@@ -1,0 +1,26 @@
+.flag {
+    height: 100px;
+    width: 400px;
+}
+#red {
+    background-color: red;
+}
+
+#white {
+    background-color: white;
+}
+
+#green {
+    background-color: green;
+}
+
+.indian-flag {
+
+}
+
+#img1 {
+    height: 90px;
+    width: 90px;
+    margin-left: 155px;
+    margin-top: 5px;
+}
